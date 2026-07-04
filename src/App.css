@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+#wishList {
+    background-image: url(./assets/asset\ 46.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px 10px 10px 10px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+#fashiionTopDetails {
+    background-image: url(./assets/asset\ 61.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px 10px 10px 10px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+a {
+    text-decoration: none;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+i {
+    font-weight: 900;
+}
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
